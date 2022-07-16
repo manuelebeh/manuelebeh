@@ -22,7 +22,7 @@
 </p>
 
 
- 🔎Github Stats
+ 🔎 Github Stats
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=manuelebeh&show_icons=true&theme=apprentice&count_private=true&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=manuelebeh&theme=react&hide_border=true" width = 400>
