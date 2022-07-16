@@ -10,7 +10,7 @@
 - ⚡ Random fact: **I am open for discussion**
 
 ## 🖥️ Languages and Tools:
-<p align="right">
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/></a>
   <!--<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"/></a>-->
@@ -39,6 +39,6 @@
 <a href="https://instagram.com/manuelebeh" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<p align="right">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=manuelebeh&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="jxareas' profile views" />
 </p>
